@@ -29,3 +29,13 @@ WEEKEND
 -problema dello sparo
 -come procedere (td...)
 -parton: dai un'occhiata + advice
+
+METRICHE DA ANALIZZARE:
+(https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)
+(https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991)
+- nr di episodi e ricompensa media
+- RMSE
+- accuracy
+- precision
+
+Potremmo anche eseguire più run cambiando tasso di apprendimento e/o epsilon così da analizzare le variazioni.
