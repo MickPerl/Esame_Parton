@@ -39,3 +39,5 @@ METRICHE DA ANALIZZARE:
 - precision
 
 Potremmo anche eseguire più run cambiando tasso di apprendimento e/o epsilon così da analizzare le variazioni.
+
+Controllare versione GPU di TensorFlow
